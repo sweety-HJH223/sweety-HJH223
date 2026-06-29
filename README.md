@@ -46,13 +46,7 @@
 
 ---
 
-### 🏆 Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sweety-HJH223&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
-
----
 
 ### 📊 GitHub Stats
 
