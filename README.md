@@ -5,7 +5,7 @@
 </p>
 <!-- Typing animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+React;AI+Engineer+%7C+Gemini+%7C+Azure+AI;Freelancer+%40+SweetyCodes;Learning+Korean+%F0%9F%87%B0%F0%9F%87%B7+%7C+TOPIK+Prep" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=160&section=header&text=Subhashree%20Behera&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=SweetyCodes%20%7C%20Full%20Stack%20%26%20AI%20Developer&descSize=18&descFontColor=ffffff&descAlignY=65" />font=Fira+Code&size=22&pause=1000&color=00B4D8¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+React;AI+Engineer+%7C+Gemini+%7C+Azure+AI;Freelancer+%40+SweetyCodes;Learning+Korean+%F0%9F%87%B0%F0%9F%87%B7+%7C+TOPIK+Prep" alt="Typing SVG" />
 </p>
 
 ---
