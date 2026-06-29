@@ -5,7 +5,7 @@
 </p>
 <!-- Typing animation -->
 <p align="center">
-font=Fira+Code&size=22&pause=1000&color=00B4D8¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+React;AI+Engineer+%7C+Gemini+%7C+Azure+AI;Freelancer+%40+SweetyCodes;Learning+Korean+%F0%9F%87%B0%F0%9F%87%B7+%7C+TOPIK+Prep" alt="Typing SVG" />
+<font=Fira+Code&size=22&pause=1000&color=00B4D8¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+React;AI+Engineer+%7C+Gemini+%7C+Azure+AI;Freelancer+%40+SweetyCodes;Learning+Korean+%F0%9F%87%B0%F0%9F%87%B7+%7C+TOPIK+Prep" alt="Typing SVG" />
 </p>
 
 ---
