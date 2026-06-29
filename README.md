@@ -42,6 +42,11 @@
 
 ### 📝 Latest Blog Posts
 <!-- VELOG-POSTS:START -->
+- [내 JSON 파싱 코드를 전부 삭제하게 만든 한 줄](https://velog.io/@sweety_jh223/%EB%82%B4-JSON-%ED%8C%8C%EC%8B%B1-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%84%EB%B6%80-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A0-%ED%95%9C-%EC%A4%84)
+- [The One Line That Deleted All My JSON Parsing Code](https://velog.io/@sweety_jh223/The-One-Line-That-Deleted-All-My-JSON-Parsing-Code)
+- [InterviewLense](https://velog.io/@sweety_jh223/InterviewLense-8az2ajuq)
+- [InterviewLense](https://velog.io/@sweety_jh223/InterviewLense)
+- [Vibe Coding — The New Way Developers Build Software with AI in 2026🤖](https://velog.io/@sweety_jh223/Vibe-Coding-The-New-Way-Developers-Build-Software-with-AI-in-2026)
 <!-- VELOG-POSTS:END -->
 
 ---
