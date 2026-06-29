@@ -15,6 +15,7 @@
 ### 🔭 Currently Working On
 
 - 📚 Studying for **Microsoft AI-103** certification
+- 📚 Studying for **AWS CERTIFIED DEVELOPER ASSOSIATE** certification
 - 💼 Freelance client outreach — **SweetyCodes**
 
 ---
