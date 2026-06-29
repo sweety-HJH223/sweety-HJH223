@@ -78,7 +78,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://www.linkedin.com/in/sweety-jh-39a96a](https://www.linkedin.com/in/sweetycodes/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sweetycodes/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-00B4D8?style=for-the-badge&logo=vercel&logoColor=white)](https://sweetycodes-jh.vercel.app/)
 [![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@sweety_jh223)
 
