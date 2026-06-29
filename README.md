@@ -1,11 +1,9 @@
 <!-- Header wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=120§ion=header&text=Hi,%20I'm%20Subhashree%20%F0%9F%91%8B&fontSize=32&fontColor=ffffff&fontAlignY=40" />
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00b4d8,100:0077b6&height=40&text=SweetyCodes&fontSize=20&fontColor=ffffff" />
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0077b6&height=160&section=header&text=Subhashree%20Behera&fontSize=36&fontColor=ffffff&fontAlignY=45&desc=SweetyCodes%20%7C%20Full%20Stack%20%26%20AI%20Developer&descSize=18&descFontColor=ffffff&descAlignY=65" />
+
 <!-- Typing animation -->
 <p align="center">
-<font=Fira+Code&size=22&pause=1000&color=00B4D8¢er=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+React;AI+Engineer+%7C+Gemini+%7C+Azure+AI;Freelancer+%40+SweetyCodes;Learning+Korean+%F0%9F%87%B0%F0%9F%87%B7+%7C+TOPIK+Prep" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00B4D8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+Next.js+%26+React;AI+Engineer+%7C+Gemini+%7C+Azure+AI;Freelancer+%40+SweetyCodes;Learning+Korean+%F0%9F%87%B0%F0%9F%87%B7+%7C+TOPIK+Prep" alt="Typing SVG" />
 </p>
 
 ---
@@ -62,4 +60,4 @@
 ---
 
 <!-- Footer wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=80§ion=footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077b6,100:00b4d8&height=80&section=footer" />
