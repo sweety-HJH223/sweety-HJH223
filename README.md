@@ -34,7 +34,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| [InterviewLens](https://github.com/sweety-HJH223/InterviewLense) | 3-agent AI interview simulator · Google Gen AI APAC 2026 | Gemini 2.5 Flash · Firebase |
+| [InterviewLens](https://github.com/sweety-HJH223/InterviewLense) | 5-agent AI interview simulator · Google Gen AI APAC 2026 | Gemini 2.5 Flash · Firebase |
 | [K-Trust](https://github.com/sweety-HJH223/K-Trust) | Korean market intelligence portal | Next.js · TypeScript |
 | [CarbonShine](https://github.com/sweety-HJH223/CarbonShine-Detailing)| Car detailing lead gen site | Next.js · Vercel |
 | [VibeWeather](https://github.com/sweety-HJH223/Vibe-Weather-KR) |  Korean weather app | JavaScript |
