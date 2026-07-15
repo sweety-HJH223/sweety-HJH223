@@ -43,11 +43,11 @@
 
 ### 📝 Latest Blog Posts
 <!-- VELOG-POSTS:START -->
+- [YouCam API 리뷰: 뷰티/패션 AI API 5종 기능 테스트](https://velog.io/@sweety_jh223/YouCam-API-%EB%A6%AC%EB%B7%B0-%EB%B7%B0%ED%8B%B0%ED%8C%A8%EC%85%98-AI-API-5%EC%A2%85-%EA%B8%B0%EB%8A%A5-%ED%85%8C%EC%8A%A4%ED%8A%B8)
 - [내 JSON 파싱 코드를 전부 삭제하게 만든 한 줄](https://velog.io/@sweety_jh223/%EB%82%B4-JSON-%ED%8C%8C%EC%8B%B1-%EC%BD%94%EB%93%9C%EB%A5%BC-%EC%A0%84%EB%B6%80-%EC%82%AD%EC%A0%9C%ED%95%98%EA%B2%8C-%EB%A7%8C%EB%93%A0-%ED%95%9C-%EC%A4%84)
 - [The One Line That Deleted All My JSON Parsing Code](https://velog.io/@sweety_jh223/The-One-Line-That-Deleted-All-My-JSON-Parsing-Code)
 - [InterviewLense- KR](https://velog.io/@sweety_jh223/InterviewLense-8az2ajuq)
 - [InterviewLense](https://velog.io/@sweety_jh223/InterviewLense)
-- [Vibe Coding — The New Way Developers Build Software with AI in 2026🤖](https://velog.io/@sweety_jh223/Vibe-Coding-The-New-Way-Developers-Build-Software-with-AI-in-2026)
 <!-- VELOG-POSTS:END -->
 
 ---
